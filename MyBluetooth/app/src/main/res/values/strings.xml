@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothTest</string>
+    <string name="title">test for connection of bluetooth</string>
+    <string name="btn_turn_on">turn on the bluetooth</string>
+</resources>
