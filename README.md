@@ -6,6 +6,7 @@
 
 ### [서버 통신하기](https://github.com/jin-vita/test-retrofit)
 : retrofit 으로 통신. 기존 call 방식과 coroutine 방식 비교.  
+  
 when (로그 값) {  
   isFail -> 서버 통신 실패  
   isSuccessful -> code가 200~300 범위에 있을때  
