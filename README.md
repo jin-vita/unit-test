@@ -5,11 +5,11 @@
 : 블루투스를 언제나 켠 상태로 유지할 수 있게 해준다.
 
 ### [서버 통신하기](https://github.com/jin-vita/test-retrofit)
-: retrofit 으로 통신. 기존 call 방식과 coroutine 방식 비교.
+: retrofit 으로 통신. 기존 call 방식과 coroutine 방식 비교.  
 when (로그 값) {  
-  isFail -> 서버 통신 실패  
-  isSuccessful -> code가 200~300 범위에 있을때  
-  isNotSuccessful -> else  
+  isFail -> 서버 통신 실패  
+  isSuccessful -> code가 200~300 범위에 있을때  
+  isNotSuccessful -> else  
 }
 
 ### [소리 출력하기](https://github.com/jin-vita/test-sound-player)
