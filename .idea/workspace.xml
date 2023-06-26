@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aedbdf55-abaf-4112-bcb1-6fbc2d5882a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/androidTest/java/com/example/bluetoothtest/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/java/com/example/bluetoothtest/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/app/src/test/java/com/example/bluetoothtest/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBluetooth/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/androidTest/java/com/jinvita/mysoundplayer/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/java/com/jinvita/mysoundplayer/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/raw/sample1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/raw/sample2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/raw/traffic.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/raw/traffic2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/app/src/test/java/com/jinvita/mysoundplayer/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySoundPlayer/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RigTvQHgHO2plGLkjpVGrICx93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/vita/SMCtask/10_unitTest/bluetooth",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aedbdf55-abaf-4112-bcb1-6fbc2d5882a2" name="Changes" comment="" />
+      <created>1687738326731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687738326731</updated>
+      <workItem from="1687738328124" duration="728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
