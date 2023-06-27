@@ -2,7 +2,7 @@
 안드로이드 개발에 필요한 기능들 모음
 
 ### [리사이클러 뷰](https://github.com/jin-vita/test-recyclerview)
-: 기본 리사이클러뷰
+: 기본 리사이클러뷰 아이템 초기화, 추가, 삭제
 
 ### [블루투스 켜기](https://github.com/jin-vita/test-bluetooth)
 : 블루투스를 언제나 켠 상태로 유지
