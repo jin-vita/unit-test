@@ -4,8 +4,8 @@
 ### [리사이클러 뷰](https://github.com/jin-vita/test-recyclerview)
 : 기본 리사이클러뷰 아이템 초기화, 추가, 삭제
 
-### [NICE 본인인증](https://github.com/jin-vita/test-auth)
-: 휴대폰, PASS 본인인증 서비스 로직 (유료, private 입니다)
+### [NICE 본인인증 (private)](https://github.com/jin-vita/test-auth)
+: 휴대폰, PASS 본인인증 유료 서비스 로직
 
 ### [블루투스 켜기](https://github.com/jin-vita/test-bluetooth)
 : 블루투스를 언제나 켠 상태로 유지
