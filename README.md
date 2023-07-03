@@ -1,11 +1,14 @@
 # unit-test
 안드로이드 개발에 필요한 기능들 모음
 
+### [라디오 버튼](https://github.com/jin-vita/test-radio-button)
+: 기본 라디오버튼
+
 ### [리사이클러 뷰](https://github.com/jin-vita/test-recyclerview)
 : 기본 리사이클러뷰 아이템 초기화, 추가, 삭제
 
 ### [NICE 본인인증 (private)](https://github.com/jin-vita/test-auth)
-: SMS, PSSS 본인인증 유료 서비스
+: SMS, PSSS 본인인증 유료 서비스 연동
 
 ### [블루투스 켜기](https://github.com/jin-vita/test-bluetooth)
 : 블루투스를 언제나 켠 상태로 유지
