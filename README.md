@@ -7,6 +7,9 @@
 ### [리사이클러 뷰](https://github.com/jin-vita/test-recyclerview)
 : 기본 리사이클러뷰 아이템 초기화, 추가, 삭제
 
+### [리스트 뷰](https://github.com/jin-vita/test-listview)
+: 기본 리스트 뷰
+
 ### [NICE 본인인증 (private)](https://github.com/jin-vita/test-auth)
 : SMS, PSSS 본인인증 유료 서비스 연동
 
