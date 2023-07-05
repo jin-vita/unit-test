@@ -31,5 +31,8 @@ when (로그 값) {
 ### [소리 출력하기](https://github.com/jin-vita/test-sound-player)
 : 소리 파일을 재생, 일시정지, 정지, 반복
 
+### [패턴 잠금화면](https://github.com/jin-vita/test-pattern-lock)
+: 패턴입력 잠금화면
+
 ### [화면 전환하기](https://github.com/jin-vita/test-fragment)
 : navigation component 를 이용하여 여러 fragments 화면 전환
