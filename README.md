@@ -1,6 +1,9 @@
 # unit-test
 안드로이드 개발에 필요한 기능들 모음
 
+### [다이얼로그](https://github.com/jin-vita/test-dialog)
+: 기본 다이얼로그
+
 ### [라디오 버튼](https://github.com/jin-vita/test-radio-button)
 : 기본 라디오버튼
 
