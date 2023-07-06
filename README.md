@@ -13,8 +13,8 @@
 ### [리스트 뷰](https://github.com/jin-vita/test-listview)
 : 기본 리스트 뷰
 
-### [NICE 본인인증 (private)](https://github.com/jin-vita/test-auth)
-: SMS, PSSS 본인인증 유료 서비스 연동
+### [본인인증 (private)](https://github.com/jin-vita/test-auth)
+: NICE 본인인증 유료 서비스 연동
 
 ### [블루투스 켜기](https://github.com/jin-vita/test-bluetooth)
 : 블루투스를 언제나 켠 상태로 유지
