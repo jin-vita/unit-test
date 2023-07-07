@@ -13,7 +13,7 @@
 ### [리스트 뷰](https://github.com/jin-vita/test-listview)
 : 기본 리스트 뷰
 
-### [본인인증 (private)](https://github.com/jin-vita/test-auth)
+### [본인인증(private)](https://github.com/jin-vita/test-auth)
 : NICE 본인인증 유료 서비스 연동
 
 ### [블루투스 켜기](https://github.com/jin-vita/test-bluetooth)
@@ -34,5 +34,8 @@ when (로그 값) {
 ### [패턴 잠금화면](https://github.com/jin-vita/test-pattern-lock)
 : 패턴입력 잠금화면
 
-### [화면 전환하기](https://github.com/jin-vita/test-fragment)
+### [화면 전환하기](https://github.com/jin-vita/test-fragment-old)
+: 여러 fragments 화면 전환
+
+### [화면 전환하기(NC)](https://github.com/jin-vita/test-fragment)
 : navigation component 를 이용하여 여러 fragments 화면 전환
