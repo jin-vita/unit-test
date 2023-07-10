@@ -38,4 +38,4 @@ when (로그 값) {
 : 여러 fragments 화면 전환
 
 ### [화면 전환하기(NC)](https://github.com/jin-vita/test-fragment)
-: navigation component 를 이용하여 여러 fragments 화면 전환
+: 여러 fragments 화면 전환 (navigation component)
