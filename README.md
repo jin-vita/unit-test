@@ -31,11 +31,20 @@ when (로그 값) {
 ### [소리 출력하기](https://github.com/jin-vita/test-sound-player)
 : 소리 파일을 재생, 일시정지, 정지, 반복
 
+### [액티비티 전환](https://github.com/jin-vita/test-activity)
+: 여러 activity 전환
+
 ### [패턴 잠금화면](https://github.com/jin-vita/test-pattern-lock)
 : 패턴입력 잠금화면
 
+### [하단 내비게이션](https://github.com/jin-vita/test-bottom-navitaion-old)
+: 여러 fragments 하단 내비게이션으로 화면 전환
+
+### [하단 내비게이션(NC)](https://github.com/jin-vita/test-bottom-navitaion)
+: 여러 fragments 하단 내비게이션으로 화면 전환 (navigation component)
+
 ### [화면 전환하기](https://github.com/jin-vita/test-fragment-old)
-: 여러 fragments 화면 전환
+: 여러 fragments 버튼으로 화면 전환
 
 ### [화면 전환하기(NC)](https://github.com/jin-vita/test-fragment)
-: 여러 fragments 화면 전환 (navigation component)
+: 여러 fragments 버튼으로 화면 전환 (navigation component)
