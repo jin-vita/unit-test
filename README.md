@@ -37,10 +37,10 @@ when (로그 값) {
 ### [패턴 잠금화면](https://github.com/jin-vita/test-pattern-lock)
 : 패턴입력 잠금화면
 
-### [하단 내비게이션](https://github.com/jin-vita/test-bottom-navitaion-old)
+### [하단 내비게이션](https://github.com/jin-vita/test-bottom-navigation-old)
 : 여러 fragments 하단 내비게이션으로 화면 전환
 
-### [하단 내비게이션(NC)](https://github.com/jin-vita/test-bottom-navitaion)
+### [하단 내비게이션(NC)](https://github.com/jin-vita/test-bottom-navigation)
 : 여러 fragments 하단 내비게이션으로 화면 전환 (navigation component)
 
 ### [화면 전환하기](https://github.com/jin-vita/test-fragment-old)
