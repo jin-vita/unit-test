@@ -16,6 +16,12 @@
 ### [본인인증(private)](https://github.com/jin-vita/test-auth)
 : NICE 본인인증 유료 서비스 연동
 
+### [레디스 연결](https://github.com/jin-vita/test-jedis)
+: redis 연결 (jedis 라이브러리)
+
+### [레디스 연결2](https://github.com/jin-vita/test-redis)
+: redis 연결 (lettuce 라이브러리)
+
 ### [RFID 작동(private)](https://github.com/jin-vita/test-rfid)
 : RFID 기기 연결, 끊기, 재연결, 스캔, 파워조절
 
