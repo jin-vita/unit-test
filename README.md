@@ -31,7 +31,7 @@ when (로그 값) {
 ### [소리 출력하기](https://github.com/jin-vita/test-sound-player)
 : 소리 파일을 재생, 일시정지, 정지, 반복
 
-### [영상 출력하기(작업중)](https://github.com/jin-vita/test-video-player)
+### [영상 출력하기](https://github.com/jin-vita/test-video-player)
 : 영상 파일을 재생, 일시정지, 정지, 반복
 
 ### [액티비티 전환(작업중)](https://github.com/jin-vita/test-activity)
