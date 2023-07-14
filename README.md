@@ -49,6 +49,9 @@ when (로그 값) {
 ### [패턴 잠금화면](https://github.com/jin-vita/test-pattern-lock)
 : 패턴입력 잠금화면
 
+### [필수 앱 설치](https://github.com/jin-vita/test-install)
+: 코드로 연결된 필수 앱(apk) 설치
+
 ### [하단 내비게이션](https://github.com/jin-vita/test-bottom-navigation-old)
 : 여러 fragments 하단 내비게이션으로 화면 전환
 
