@@ -46,6 +46,9 @@ when (로그 값) {
 ### [영상 출력하기](https://github.com/jin-vita/test-video-player)
 : 영상 파일을 재생, 일시정지, 정지, 반복
 
+### [영상 출력하기 - REDIS](https://github.com/jin-vita/test-redis-video-play)
+: 영상 파일을 레디스를 받아 재생
+
 ### [액티비티 전환(작업중)](https://github.com/jin-vita/test-activity)
 : 여러 activity 전환
 
