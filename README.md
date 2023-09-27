@@ -25,6 +25,9 @@
 ### [레디스 연결2](https://github.com/jin-vita/test-redis)
 : redis 연결 (lettuce 라이브러리)
 
+### [시리얼 연결](https://github.com/jin-vita/test-serial)
+: serial port 연결
+
 ### [RFID 작동(private)](https://github.com/jin-vita/test-rfid)
 : RFID 기기 연결, 끊기, 재연결, 스캔, 파워조절
 
